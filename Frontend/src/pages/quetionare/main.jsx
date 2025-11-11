@@ -512,52 +512,7 @@ const Questionnaire = () => {
         <Typography variant="h5" component="h1" sx={{ flexGrow: 1, ml: 1 }}>
           AI Use Case Questionnaire
         </Typography>
-        <Box sx={{ display: "flex", flexWrap: "wrap", gap: 1 }}>
-          <Tooltip title="Load example for an internal AI system">
-            <Button
-              size="small"
-              variant="outlined"
-              color="secondary"
-              onClick={() => loadExample("internal-ai")}
-              startIcon={<AutoFixHighIcon />}
-            >
-              Internal AI
-            </Button>
-          </Tooltip>
-          <Tooltip title="Load example for an internal Cybersecurity system">
-            <Button
-              size="small"
-              variant="outlined"
-              color="secondary"
-              onClick={() => loadExample("internal-cyber")}
-              startIcon={<AutoFixHighIcon />}
-            >
-              Internal Cyber
-            </Button>
-          </Tooltip>
-          <Tooltip title="Load example for a third-party AI system">
-            <Button
-              size="small"
-              variant="outlined"
-              color="secondary"
-              onClick={() => loadExample("thirdparty-ai")}
-              startIcon={<AutoFixHighIcon />}
-            >
-              3rd-Party AI
-            </Button>
-          </Tooltip>
-          <Tooltip title="Load example for a third-party Cybersecurity system">
-            <Button
-              size="small"
-              variant="outlined"
-              color="secondary"
-              onClick={() => loadExample("thirdparty-cyber")}
-              startIcon={<AutoFixHighIcon />}
-            >
-              3rd-Party Cyber
-            </Button>
-          </Tooltip>
-        </Box>
+        
         {isAdmin() && (
           <Tooltip title="Add New Question">
             <IconButton
