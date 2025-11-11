@@ -18,8 +18,7 @@ This is the central hub for your entire AI governance program. It provides a sin
     * Real-time risk posture and threat monitoring.
     * Compliance status tracking against frameworks like **NIST AI RMF**, **ISO 42001**, and **EU AI Act**.
 
-**[Screenshot: Insert a wide, high-level screenshot of the main Governance Dashboard here, showing key charts and metrics.]**
-![alt text](<assets/Screenshot 2025-11-11 222953.png>)
+![alt text](<assets/Dashboard.png>)
 
 ---
 
@@ -31,7 +30,7 @@ A dedicated module for moving from static spreadsheets to a dynamic, continuous 
     * A comprehensive risk register to track risks throughout the AI lifecycle.
     * Tools for prioritizing risks and managing mitigation tasks.
 
-![alt text](<assets/Screenshot 2025-11-11 223001.png>)
+![alt text](<assets/Risk Assessment.png>)
 
 ---
 
@@ -43,7 +42,7 @@ Manage your AI-related controls seamlessly. This module allows you to map your i
     * Map a single control to multiple frameworks ("test once, report many").
     * Automate evidence collection and streamline audit readiness.
 
-![alt text](<assets/Screenshot 2025-11-11 223022.png>)
+![alt text](<assets/Control Assessment.png>)
 
 ---
 
@@ -55,7 +54,7 @@ Build and maintain trust with your customers, partners, and regulators. The Trus
     * Securely share audit reports, certifications, and policies.
     * **Built-in Chatbot:** Features an integrated, AI-powered chatbot to provide instant, verified answers to stakeholder questions about your governance practices.
 
-![alt text](<assets/Screenshot 2025-11-11 223036.png>)
+![alt text](<assets/Trust Center.png>)
 
 ---
 
@@ -65,7 +64,7 @@ The best way to understand the power of the Rakfort AI Governance Platform is to
 
 * **Request a Demo:** Visit our [Demo Page](https://governance.rakfort.com/demo) (or your specific demo link) to schedule a personalized walkthrough with our team.
 
-![alt text](<assets/Screenshot 2025-11-11 222922.png>)
+![alt text](<assets/Demo Page.png>)
 
 ## Contact & Support
 
