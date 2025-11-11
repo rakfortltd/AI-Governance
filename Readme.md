@@ -63,7 +63,7 @@ Build and maintain trust with your customers, partners, and regulators. The Trus
 
 The best way to understand the power of the Rakfort AI Governance Platform is to see it live.
 
-* **Request a Demo:** Visit our [Demo Page](https://rakfort.com/demo/) (or your specific demo link) to schedule a personalized walkthrough with our team.
+* **Request a Demo:** Visit our [Demo Page](https://governance.rakfort.com/demo) (or your specific demo link) to schedule a personalized walkthrough with our team.
 
 ![alt text](<assets/Screenshot 2025-11-11 222922.png>)
 
@@ -73,4 +73,4 @@ For more information, please visit our official website or get in touch.
 
 * **Website:** [https://rakfort.com](https://rakfort.com)
 * **AI Governance Page:** [https://governance.rakfort.com](https://governance.rakfort.com)
-* **Contact Us:** [https://rakfort.com/contact/](https://rakfort.com/contact/)
+* **Contact Us:** [https://rakfort.com/contact/](https://governance.rakfort.com/support)
