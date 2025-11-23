@@ -64,8 +64,8 @@ Build and maintain trust with your customers, partners, and regulators. The Trus
 
 The best way to understand the power of the Rakfort AI Governance Platform is to see it live.
 
-* **Demo Account: Use below details:**
-* https://governance.rakfort.com
+* **Demo Account: Use below details:** https://governance.rakfort.com
+  
 Username: demo@rakfort.com; Password: governance.demo@Rakfort
 
 * **Request a Demo:** Visit our [Demo Page](https://governance.rakfort.com/demo) (or your specific demo link) to schedule a personalized walkthrough with our team.
