@@ -12,7 +12,7 @@ https://governance.rakfort.com
 
 The Rakfort AI Governance Platform is built around a central dashboard that provides access to all critical governance functions.
 
-### 1. The AI Governance Dashboard (https://governance.rakfort.com)
+### 1. The AI Governance Dashboard 
 This is the central hub for your entire AI governance program. It provides a single-pane-of-glass view of all your AI assets, their risk posture, and their compliance status.
 
 * **Key Capabilities:**
@@ -65,8 +65,8 @@ Build and maintain trust with your customers, partners, and regulators. The Trus
 The best way to understand the power of the Rakfort AI Governance Platform is to see it live.
 
 * **Demo Account: Use below details:**
-Username: demo@rakfort.com
-Password: governance.demo@Rakfort
+* https://governance.rakfort.com
+Username: demo@rakfort.com; Password: governance.demo@Rakfort
 
 * **Request a Demo:** Visit our [Demo Page](https://governance.rakfort.com/demo) (or your specific demo link) to schedule a personalized walkthrough with our team.
 
