@@ -4,13 +4,15 @@ Welcome to the documentation for the Rakfort AI Governance Platform. This soluti
 
 Our platform empowers you to operationalize AI governance by providing real-time visibility and automated workflows, enabling you to build, deploy, and manage AI systems responsibly and in compliance with global regulations.
 
+https://governance.rakfort.com
+
 ---
 
 ## Core Platform Features
 
 The Rakfort AI Governance Platform is built around a central dashboard that provides access to all critical governance functions.
 
-### 1. The AI Governance Dashboard
+### 1. The AI Governance Dashboard (https://governance.rakfort.com)
 This is the central hub for your entire AI governance program. It provides a single-pane-of-glass view of all your AI assets, their risk posture, and their compliance status.
 
 * **Key Capabilities:**
