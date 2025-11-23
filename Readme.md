@@ -72,4 +72,4 @@ For more information, please visit our official website or get in touch.
 
 * **Website:** [https://rakfort.com](https://rakfort.com)
 * **AI Governance Page:** [https://governance.rakfort.com](https://governance.rakfort.com)
-* **Contact Us:** [https://rakfort.com/contact/](https://rakfort.com/contact/)
+* **Contact Us:** info@rakfort.com;  [https://rakfort.com/contact/](https://rakfort.com/contact/); 
